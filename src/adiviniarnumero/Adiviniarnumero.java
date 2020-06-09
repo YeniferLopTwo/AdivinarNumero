@@ -1,7 +1,12 @@
 package adiviniarnumero;
-
+/**
+ * librerías
+ */
 import java.util.Scanner;
-
+/**
+ * Un ejercicio de adivinar un número
+ * @author YENIFER LOPEZ
+ */
 public class Adiviniarnumero {
 
     public static void main(String[] args) {
